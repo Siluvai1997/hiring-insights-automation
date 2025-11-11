@@ -1,7 +1,7 @@
 
-# Interview Pipeline Insights
+# Hiring Insights
 
-A modern, data-driven dashboard that helps recruiters and hiring managers track pipeline health, detect bottlenecks, and optimize hiring efficiency — with the precision of a DevOps observability system.
+Hiring Insights Hub is a data-driven dashboard that helps recruiters and hiring managers monitor their hiring process like a system — it tracks progress, detects bottlenecks, and shows key insights across sourcing channels and skill matches.”
 
 ## Live Demo
   [Launch the App on Streamlit Cloud](https://interview-pipeline-insights-hqesqqimjuka8vznyv9qz8.streamlit.app/)
