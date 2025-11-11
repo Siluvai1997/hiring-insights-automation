@@ -30,7 +30,7 @@ df = load_dataset(str(data_path))
 tab1, tab2, tab3, tab4 = st.tabs(["Overview", "Bottlenecks", "Source Insights", "Skills Analyzer"])
 
 with tab1:
-    st.subheader("Pipeline Overview")
+    st.subheader("Recruitment Summary")
     kpis = compute_kpis(df)
     c1, c2, c3, c4 = st.columns(4)
     c1.metric("Total Candidates", kpis["total"])
