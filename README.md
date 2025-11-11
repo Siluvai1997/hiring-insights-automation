@@ -4,9 +4,12 @@
 A modern, data-driven dashboard that helps recruiters and hiring managers track pipeline health, detect bottlenecks, and optimize hiring efficiency — with the precision of a DevOps observability system.
 
 ## Live Demo
-  [Launch the App on Streamlit Cloud](https://your-final-url-here)
+  [Launch the App on Streamlit Cloud](https://interview-pipeline-insights-hqesqqimjuka8vznyv9qz8.streamlit.app/)
 
-*(The app is free to access — hosted via Streamlit Cloud using this repository.)*
+*(Free public demo — hosted using Streamlit Cloud, built directly from this GitHub repository.)
+
+![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-red)
+![Python](https://img.shields.io/badge/Python-3.11-blue)
 
 ## MVP Features
 - Pipeline overview (counts by stage, weekly applications)
