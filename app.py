@@ -12,8 +12,8 @@ from modules.report_generator import generate_pdf_report
 from modules.email_alerts import send_bottleneck_alerts
 
 st.set_page_config(page_title="Interview Pipeline Insights", page_icon="🧩", layout="wide")
-st.title("Interview Pipeline Insights")
-st.caption("A next-gen tracker for recruiters & hiring managers — pipeline health, bottlenecks, source effectiveness, and skills matching.")
+st.title("Hiring Insights Hub")
+st.caption("A smart dashboard for recruiters and hiring teams — track candidate progress, detect delays, analyze sourcing performance, and evaluate skill alignment in one place.")
 
 data_path = Path("data/candidate_data.csv")
 jd_path = Path("data/sample_jd.txt")
