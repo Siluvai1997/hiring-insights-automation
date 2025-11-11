@@ -73,12 +73,16 @@ with tab1:
     st.dataframe(sdf.sort_values(by="Last_Updated", ascending=False), use_container_width=True)
 
 with tab2:
-    st.subheader("Bottleneck Detector")
+    st.subheader("Bottleneck Insights (Idle Candidates Report)")
+    st.caption(
+        "Shows candidates who have been idle in early stages for more than the defined threshold. "
+        "Use this to take quick action and prevent delays in hiring."
+    )
     stuck = detect_bottlenecks(df, days_threshold=days_threshold)
     st.write(f"Candidates in early stages for ≥ {days_threshold} days")
     st.dataframe(stuck[["Candidate","Role","Stage","Source","Applied_Date","Last_Updated","Skills"]], use_container_width=True)
 
-    if st.button("📬 Send Alerts (Simulated)"):
+    if st.button("Send Alerts (Simulated)"):
         recips = [r.strip() for r in recipients_input.split(",") if r.strip()]
         result = send_bottleneck_alerts(stuck, recips)
         st.success(result)
