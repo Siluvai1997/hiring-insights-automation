@@ -1,61 +1,151 @@
 Candidate,Role,Stage,Source,Applied_Date,Last_Updated,Skills
-Candidate_01,Cloud Engineer,Screening,Company Site,2025-09-04,2025-10-06,CI/CD;Networking;GCP;Terraform;Grafana
-Candidate_02,Cloud Engineer,Hired,LinkedIn,2025-09-26,2025-11-04,PowerShell;Azure;Kubernetes;Grafana;AWS;Jenkins;Python
-Candidate_03,Platform Engineer,Rejected,Company Site,2025-10-15,2025-10-19,Security;CI/CD;AWS;GitHub Actions;GCP;Python
-Candidate_04,Cloud Engineer,Offer,LinkedIn,2025-07-25,2025-07-28,GCP;GitHub Actions;Linux;Kubernetes;PowerShell;Prometheus;Networking
-Candidate_05,DevOps Engineer,Screening,Referral,2025-07-13,2025-07-27,PowerShell;AWS;CI/CD;Terraform;Prometheus
-Candidate_06,Platform Engineer,Applied,Referral,2025-10-06,2025-10-26,Grafana;Networking;Linux;GCP;Kubernetes;Docker
-Candidate_07,SRE,Applied,LinkedIn,2025-08-03,2025-09-05,CI/CD;PowerShell;Kubernetes;Ansible
-Candidate_08,SRE,Interview,Recruiter,2025-07-22,2025-08-04,Jenkins;GitHub Actions;Security;Linux;Ansible
-Candidate_09,SRE,Applied,Referral,2025-07-10,2025-07-23,Jenkins;GCP;Bash;GitHub Actions;Terraform;Grafana;AWS
-Candidate_10,Platform Engineer,Rejected,Referral,2025-06-27,2025-07-21,Networking;Linux;Kubernetes;Grafana;AWS;PowerShell;Terraform
-Candidate_11,DevOps Engineer,Screening,Company Site,2025-10-25,2025-10-30,Bash;Terraform;Ansible;Python;Docker;AWS
-Candidate_12,Cloud Engineer,Screening,Job Board,2025-07-31,2025-08-11,Bash;Terraform;Azure;GitHub Actions;Networking;Jenkins;Kubernetes
-Candidate_13,DevOps Engineer,Rejected,Job Board,2025-08-02,2025-08-27,CI/CD;Security;Ansible;PowerShell;Terraform;Networking;Azure
-Candidate_14,Cloud Engineer,Offer,LinkedIn,2025-09-29,2025-11-11,Python;Terraform;GitHub Actions;CI/CD;AWS
-Candidate_15,Platform Engineer,Applied,Company Site,2025-07-29,2025-08-08,AWS;Linux;Security;PowerShell;Python
-Candidate_16,Platform Engineer,Hired,LinkedIn,2025-07-24,2025-09-05,Azure;Ansible;GitHub Actions;Docker;Kubernetes;AWS
-Candidate_17,Cloud Engineer,Applied,Company Site,2025-08-14,2025-09-20,Networking;Bash;Python;Docker
-Candidate_18,Platform Engineer,Rejected,Company Site,2025-08-07,2025-08-23,GitHub Actions;Bash;Kubernetes;Docker;PowerShell;Azure
-Candidate_19,SRE,Hired,Recruiter,2025-10-27,2025-11-11,Security;Bash;GitHub Actions;Terraform
-Candidate_20,SRE,Applied,Recruiter,2025-08-11,2025-08-17,Docker;Jenkins;PowerShell;GCP;GitHub Actions;Security
-Candidate_21,DevOps Engineer,Rejected,LinkedIn,2025-10-16,2025-11-11,Grafana;CI/CD;Linux;Security
-Candidate_22,Platform Engineer,Applied,LinkedIn,2025-07-06,2025-08-19,Bash;Kubernetes;Terraform;Jenkins;Ansible;Docker;Grafana
-Candidate_23,Platform Engineer,Screening,Referral,2025-10-04,2025-10-30,CI/CD;Kubernetes;PowerShell;Python;Networking;Security
-Candidate_24,Platform Engineer,Screening,Recruiter,2025-08-18,2025-09-17,Kubernetes;CI/CD;Networking;Docker;Azure;Ansible
-Candidate_25,Platform Engineer,Rejected,LinkedIn,2025-08-04,2025-08-26,Ansible;Linux;Azure;Bash;Terraform
-Candidate_26,Cloud Engineer,Applied,Job Board,2025-09-28,2025-10-29,GCP;Prometheus;Docker;GitHub Actions
-Candidate_27,SRE,Screening,Recruiter,2025-08-11,2025-08-29,Python;GitHub Actions;Terraform;Prometheus
-Candidate_28,Cloud Engineer,Rejected,Recruiter,2025-08-14,2025-08-31,Linux;GCP;Security;Kubernetes;Docker;Prometheus
-Candidate_29,Platform Engineer,Interview,Job Board,2025-08-07,2025-09-20,Terraform;AWS;Docker;Networking;Python;GCP;GitHub Actions
-Candidate_30,SRE,Applied,Recruiter,2025-07-04,2025-07-31,Grafana;Kubernetes;Python;Terraform;PowerShell;Bash;Azure
-Candidate_31,Cloud Engineer,Screening,LinkedIn,2025-09-26,2025-10-08,Prometheus;Networking;Bash;Azure;AWS
-Candidate_32,Platform Engineer,Screening,Recruiter,2025-08-25,2025-09-10,Python;PowerShell;Networking;Docker;Prometheus;Jenkins;GitHub Actions
-Candidate_33,Cloud Engineer,Applied,Company Site,2025-10-27,2025-11-11,Azure;Terraform;Security;GCP;CI/CD;Prometheus
-Candidate_34,DevOps Engineer,Rejected,LinkedIn,2025-07-11,2025-07-24,Docker;Jenkins;Terraform;GCP
-Candidate_35,DevOps Engineer,Applied,Recruiter,2025-10-28,2025-11-11,GCP;Bash;AWS;CI/CD;Security;Terraform;Azure
-Candidate_36,Platform Engineer,Applied,Referral,2025-10-10,2025-10-17,Kubernetes;Docker;Bash;Jenkins;GCP;Ansible
-Candidate_37,Cloud Engineer,Applied,Job Board,2025-10-28,2025-11-11,Grafana;Python;Terraform;GitHub Actions;Networking
-Candidate_38,Cloud Engineer,Interview,Recruiter,2025-07-22,2025-08-12,Docker;Grafana;Jenkins;Python;GCP;PowerShell;Ansible
-Candidate_39,SRE,Interview,Company Site,2025-08-04,2025-08-17,Docker;Kubernetes;Ansible;Linux;Networking;Jenkins;GCP
-Candidate_40,DevOps Engineer,Applied,Recruiter,2025-08-08,2025-09-01,Azure;Python;Prometheus;Ansible;Linux;Networking
-Candidate_41,Cloud Engineer,Offer,Referral,2025-09-26,2025-10-30,AWS;GCP;Kubernetes;GitHub Actions;Docker;Ansible
-Candidate_42,Platform Engineer,Offer,Referral,2025-08-17,2025-09-04,Prometheus;Linux;Kubernetes;CI/CD;Grafana
-Candidate_43,SRE,Applied,Company Site,2025-08-15,2025-08-19,Grafana;Ansible;Azure;Jenkins;AWS;PowerShell
-Candidate_44,Platform Engineer,Applied,LinkedIn,2025-06-24,2025-08-07,Grafana;Docker;CI/CD;AWS;Prometheus;Jenkins
-Candidate_45,Platform Engineer,Interview,LinkedIn,2025-09-26,2025-10-06,GitHub Actions;Grafana;Jenkins;Docker;Ansible;Security;Kubernetes
-Candidate_46,DevOps Engineer,Rejected,LinkedIn,2025-09-27,2025-11-09,Grafana;AWS;Docker;Ansible;Prometheus;GCP
-Candidate_47,DevOps Engineer,Offer,Referral,2025-07-27,2025-08-07,AWS;Ansible;Docker;Terraform;Security;PowerShell
-Candidate_48,Platform Engineer,Offer,Company Site,2025-08-18,2025-08-22,Networking;Jenkins;Python;AWS;Prometheus;PowerShell
-Candidate_49,SRE,Applied,Company Site,2025-07-09,2025-07-18,Kubernetes;Grafana;CI/CD;Terraform
-Candidate_50,SRE,Screening,LinkedIn,2025-09-25,2025-10-06,Linux;Grafana;Networking;Jenkins;Terraform;Ansible
-Candidate_51,Cloud Engineer,Screening,Referral,2025-06-29,2025-08-11,Kubernetes;PowerShell;Jenkins;Security;Networking;Prometheus;Python
-Candidate_52,SRE,Screening,Job Board,2025-09-08,2025-09-23,Grafana;GCP;Docker;PowerShell
-Candidate_53,DevOps Engineer,Interview,Referral,2025-08-19,2025-09-25,GCP;AWS;Linux;Bash
-Candidate_54,DevOps Engineer,Applied,Referral,2025-06-28,2025-07-05,Kubernetes;AWS;Security;Networking;Docker
-Candidate_55,DevOps Engineer,Screening,Job Board,2025-09-23,2025-10-21,CI/CD;Bash;Linux;Security
-Candidate_56,Platform Engineer,Applied,LinkedIn,2025-08-28,2025-09-29,Networking;GCP;Ansible;Security;Grafana;GitHub Actions
-Candidate_57,Platform Engineer,Interview,Company Site,2025-09-07,2025-09-12,Ansible;PowerShell;CI/CD;GCP
-Candidate_58,Cloud Engineer,Offer,Referral,2025-09-11,2025-10-02,AWS;Terraform;Grafana;CI/CD;Security;Python;GCP
-Candidate_59,Platform Engineer,Screening,LinkedIn,2025-10-23,2025-11-07,Docker;Bash;CI/CD;GitHub Actions;Azure;Ansible
-Candidate_60,SRE,Screening,LinkedIn,2025-10-10,2025-11-11,GCP;Bash;Docker;AWS;PowerShell
+Candidate_001,SRE,Rejected,LinkedIn,2025-10-14,2025-10-15,Docker;Grafana;CI/CD;Prometheus;Terraform;Linux
+Candidate_002,SRE,Interview,Recruiter,2025-09-15,2025-10-02,Linux;GitHub Actions;Kubernetes;PowerShell;Networking;CI/CD;Python
+Candidate_003,DevOps Engineer,Applied,Company Site,2025-10-19,2025-11-10,Security;AWS;Python;Networking;Grafana;Docker
+Candidate_004,Cloud Engineer,Screening,LinkedIn,2025-09-16,2025-09-20,Security;PowerShell;Grafana;Terraform
+Candidate_005,DevOps Engineer,Applied,Company Site,2025-08-16,2025-09-08,Security;Docker;GCP;Azure;PowerShell
+Candidate_006,SRE,Rejected,Recruiter,2025-09-21,2025-09-26,Prometheus;GCP;Python;Security;Grafana;Bash;CI/CD
+Candidate_007,Platform Engineer,Rejected,Recruiter,2025-09-14,2025-10-14,Azure;Prometheus;Linux;Docker
+Candidate_008,SRE,Screening,Job Board,2025-09-16,2025-09-20,Ansible;Jenkins;Security;CI/CD
+Candidate_009,DevOps Engineer,Interview,Referral,2025-09-30,2025-10-19,GitHub Actions;Terraform;Networking;Prometheus;Kubernetes;Python
+Candidate_010,Platform Engineer,Applied,Job Board,2025-08-26,2025-08-31,Ansible;Grafana;GCP;Kubernetes;Prometheus
+Candidate_011,Cloud Engineer,Screening,Job Board,2025-08-28,2025-08-31,Security;GCP;Azure;Prometheus
+Candidate_012,Cloud Engineer,Rejected,Company Site,2025-09-04,2025-09-15,Python;CI/CD;AWS;Docker
+Candidate_013,SRE,Applied,Referral,2025-09-27,2025-10-09,Grafana;Python;Terraform;Jenkins
+Candidate_014,DevOps Engineer,Screening,LinkedIn,2025-10-28,2025-11-11,Jenkins;AWS;Python;Kubernetes;GCP;Grafana
+Candidate_015,SRE,Interview,Job Board,2025-08-27,2025-09-07,Kubernetes;Ansible;Terraform;AWS;Security;PowerShell
+Candidate_016,Platform Engineer,Screening,Company Site,2025-09-22,2025-10-10,Linux;Jenkins;CI/CD;Ansible;Kubernetes;Networking
+Candidate_017,SRE,Applied,LinkedIn,2025-08-13,2025-08-16,AWS;Linux;GitHub Actions;Bash
+Candidate_018,Platform Engineer,Applied,Recruiter,2025-09-27,2025-10-12,Prometheus;Kubernetes;Linux;Ansible
+Candidate_019,SRE,Rejected,Job Board,2025-09-27,2025-10-16,Python;AWS;PowerShell;Jenkins;Grafana;GCP
+Candidate_020,Platform Engineer,Interview,Job Board,2025-10-15,2025-11-11,Linux;AWS;Python;Kubernetes;Security;Azure
+Candidate_021,DevOps Engineer,Rejected,Referral,2025-08-25,2025-09-04,Kubernetes;Terraform;Azure;Grafana;Python
+Candidate_022,Cloud Engineer,Rejected,Job Board,2025-09-01,2025-09-23,Grafana;Docker;CI/CD;Azure;Python;Security
+Candidate_023,Platform Engineer,Hired,Company Site,2025-08-19,2025-08-28,Jenkins;AWS;Grafana;Kubernetes;Azure;Docker;Linux
+Candidate_024,SRE,Applied,Company Site,2025-08-25,2025-09-12,Ansible;PowerShell;Prometheus;Kubernetes;AWS;CI/CD;GitHub Actions
+Candidate_025,Platform Engineer,Applied,LinkedIn,2025-09-24,2025-10-11,Networking;Ansible;Python;Kubernetes;CI/CD;Docker;Grafana
+Candidate_026,Cloud Engineer,Screening,Job Board,2025-10-04,2025-10-23,PowerShell;Prometheus;Kubernetes;GitHub Actions;Security;Networking
+Candidate_027,SRE,Interview,Referral,2025-08-14,2025-09-05,Security;Networking;Azure;Terraform;AWS
+Candidate_028,Cloud Engineer,Applied,LinkedIn,2025-08-20,2025-09-12,GitHub Actions;Bash;Azure;Docker;Kubernetes;Terraform;PowerShell
+Candidate_029,Cloud Engineer,Interview,Company Site,2025-10-14,2025-10-21,Networking;CI/CD;Python;GitHub Actions;Linux;Grafana
+Candidate_030,DevOps Engineer,Offer,Referral,2025-09-16,2025-09-29,AWS;Docker;Security;Networking;Kubernetes;Terraform
+Candidate_031,SRE,Applied,Referral,2025-10-05,2025-10-10,Docker;Terraform;GCP;CI/CD;Grafana;Linux
+Candidate_032,Platform Engineer,Rejected,Referral,2025-10-16,2025-10-31,Linux;Python;CI/CD;Azure;Terraform;AWS
+Candidate_033,Platform Engineer,Applied,Referral,2025-09-12,2025-10-05,Prometheus;GCP;PowerShell;CI/CD;Python;Security;Bash
+Candidate_034,Cloud Engineer,Screening,Job Board,2025-10-04,2025-10-10,Security;Terraform;Docker;AWS;Grafana;Networking
+Candidate_035,Platform Engineer,Applied,LinkedIn,2025-10-04,2025-10-08,Networking;Azure;Security;PowerShell;Grafana;Bash;AWS
+Candidate_036,DevOps Engineer,Rejected,Recruiter,2025-10-04,2025-10-22,Docker;Linux;Grafana;Networking;GitHub Actions;Security
+Candidate_037,Platform Engineer,Interview,Company Site,2025-09-12,2025-09-23,Jenkins;Bash;Security;GitHub Actions
+Candidate_038,DevOps Engineer,Applied,Recruiter,2025-09-16,2025-09-28,Python;Jenkins;Linux;Security
+Candidate_039,SRE,Interview,Company Site,2025-10-28,2025-11-11,Python;Kubernetes;GitHub Actions;GCP;AWS
+Candidate_040,SRE,Rejected,Referral,2025-08-26,2025-09-01,Docker;PowerShell;CI/CD;Bash;Security;Linux
+Candidate_041,Platform Engineer,Interview,Referral,2025-10-01,2025-10-06,Kubernetes;Linux;Security;Docker;Prometheus;Ansible;Bash
+Candidate_042,Cloud Engineer,Applied,Recruiter,2025-08-26,2025-08-27,CI/CD;Docker;Linux;Grafana;Python;GCP;PowerShell
+Candidate_043,SRE,Applied,Referral,2025-10-09,2025-10-22,Networking;Docker;Security;GitHub Actions;Bash;Linux
+Candidate_044,SRE,Applied,Referral,2025-10-08,2025-10-26,Azure;Jenkins;Prometheus;Terraform
+Candidate_045,Platform Engineer,Hired,Recruiter,2025-10-03,2025-10-07,Prometheus;Ansible;Grafana;PowerShell;Jenkins;Terraform;AWS
+Candidate_046,Platform Engineer,Screening,Job Board,2025-09-13,2025-10-02,Linux;PowerShell;Bash;Grafana;Azure
+Candidate_047,DevOps Engineer,Applied,LinkedIn,2025-10-05,2025-10-26,Jenkins;Linux;Kubernetes;AWS;Grafana;Security;Prometheus
+Candidate_048,Platform Engineer,Rejected,Company Site,2025-10-22,2025-11-11,Ansible;Python;Prometheus;Grafana
+Candidate_049,Platform Engineer,Rejected,Referral,2025-10-20,2025-11-11,Security;Bash;Ansible;GCP;Python;AWS;Grafana
+Candidate_050,Cloud Engineer,Screening,Recruiter,2025-09-07,2025-10-03,Grafana;PowerShell;Networking;Ansible;CI/CD;Jenkins;GitHub Actions
+Candidate_051,SRE,Interview,Referral,2025-08-16,2025-09-05,Docker;AWS;Azure;Python;Jenkins;GCP
+Candidate_052,Cloud Engineer,Rejected,LinkedIn,2025-11-06,2025-11-10,Bash;Kubernetes;Ansible;Grafana;GCP;CI/CD
+Candidate_053,Cloud Engineer,Interview,Recruiter,2025-08-24,2025-09-08,PowerShell;Terraform;Linux;AWS
+Candidate_054,Cloud Engineer,Hired,LinkedIn,2025-11-01,2025-11-03,Grafana;AWS;Kubernetes;Networking
+Candidate_055,SRE,Interview,Referral,2025-09-02,2025-09-16,GCP;CI/CD;PowerShell;Bash;Docker
+Candidate_056,Platform Engineer,Rejected,LinkedIn,2025-08-23,2025-09-16,Prometheus;Docker;Azure;Python;Jenkins;PowerShell;Networking
+Candidate_057,Cloud Engineer,Hired,Company Site,2025-08-21,2025-09-08,Jenkins;GCP;Bash;Terraform;Security;Ansible;Networking
+Candidate_058,SRE,Interview,Referral,2025-10-13,2025-10-23,PowerShell;GCP;AWS;Terraform;Jenkins
+Candidate_059,Cloud Engineer,Rejected,Job Board,2025-10-14,2025-11-03,Linux;PowerShell;Grafana;GCP;Bash
+Candidate_060,Cloud Engineer,Screening,Company Site,2025-09-04,2025-09-12,GCP;Kubernetes;GitHub Actions;Azure;CI/CD;Jenkins;Ansible
+Candidate_061,Platform Engineer,Screening,Company Site,2025-10-10,2025-10-22,Networking;CI/CD;Bash;Linux;AWS;Docker
+Candidate_062,DevOps Engineer,Screening,Job Board,2025-09-06,2025-10-04,Python;GCP;Bash;Ansible;Jenkins
+Candidate_063,DevOps Engineer,Applied,Company Site,2025-09-26,2025-09-28,Bash;CI/CD;GitHub Actions;AWS;Security;GCP
+Candidate_064,DevOps Engineer,Screening,Referral,2025-08-20,2025-08-21,Grafana;Python;Kubernetes;CI/CD
+Candidate_065,Cloud Engineer,Offer,Recruiter,2025-11-01,2025-11-10,Grafana;CI/CD;Jenkins;GCP;Ansible
+Candidate_066,SRE,Applied,Company Site,2025-10-17,2025-11-04,Security;GCP;Jenkins;Kubernetes;CI/CD;Docker
+Candidate_067,SRE,Offer,Recruiter,2025-10-14,2025-10-26,Kubernetes;Linux;AWS;Jenkins;CI/CD;Grafana
+Candidate_068,SRE,Screening,Company Site,2025-08-18,2025-09-14,Ansible;AWS;Networking;Prometheus
+Candidate_069,Cloud Engineer,Applied,Recruiter,2025-10-12,2025-10-26,PowerShell;Ansible;Azure;Jenkins;Bash;Networking
+Candidate_070,SRE,Rejected,Company Site,2025-10-07,2025-10-09,Grafana;Linux;Security;Bash;AWS;Jenkins
+Candidate_071,Platform Engineer,Rejected,Company Site,2025-09-04,2025-10-03,Terraform;Python;Jenkins;Bash;PowerShell;Linux
+Candidate_072,SRE,Interview,LinkedIn,2025-10-07,2025-11-02,GitHub Actions;Azure;Kubernetes;CI/CD;PowerShell;Grafana;Python
+Candidate_073,DevOps Engineer,Applied,Job Board,2025-10-03,2025-10-30,Linux;Security;Jenkins;PowerShell;Docker;Kubernetes
+Candidate_074,DevOps Engineer,Interview,Recruiter,2025-09-01,2025-09-28,GCP;Python;PowerShell;Jenkins;Ansible;Azure
+Candidate_075,SRE,Screening,Job Board,2025-10-12,2025-11-01,Terraform;Python;Kubernetes;Security
+Candidate_076,SRE,Rejected,Referral,2025-09-13,2025-10-06,GCP;Docker;Terraform;Azure;PowerShell
+Candidate_077,Cloud Engineer,Rejected,Company Site,2025-08-26,2025-09-06,CI/CD;AWS;Kubernetes;Linux
+Candidate_078,DevOps Engineer,Interview,Recruiter,2025-09-10,2025-09-30,Terraform;Azure;Bash;Jenkins;CI/CD;Docker;Ansible
+Candidate_079,SRE,Applied,Job Board,2025-08-18,2025-08-31,Bash;CI/CD;Security;GitHub Actions;Azure;Grafana
+Candidate_080,DevOps Engineer,Offer,Company Site,2025-09-22,2025-10-19,CI/CD;Ansible;Bash;Jenkins;GCP;Linux
+Candidate_081,Cloud Engineer,Interview,Referral,2025-09-16,2025-09-30,Grafana;Jenkins;Networking;PowerShell;GitHub Actions;GCP;Docker
+Candidate_082,SRE,Rejected,LinkedIn,2025-09-03,2025-09-10,Docker;Grafana;GitHub Actions;Bash;CI/CD;Ansible
+Candidate_083,DevOps Engineer,Offer,Company Site,2025-10-16,2025-11-09,Linux;Jenkins;GCP;GitHub Actions;Security;Prometheus;PowerShell
+Candidate_084,Platform Engineer,Applied,Company Site,2025-10-07,2025-11-06,Grafana;Ansible;Terraform;Linux
+Candidate_085,Cloud Engineer,Offer,Referral,2025-10-15,2025-10-18,Azure;CI/CD;Networking;Bash;PowerShell;Security
+Candidate_086,Cloud Engineer,Applied,Recruiter,2025-09-18,2025-09-21,PowerShell;GitHub Actions;Linux;Python
+Candidate_087,Cloud Engineer,Interview,Company Site,2025-09-29,2025-10-02,AWS;Ansible;Linux;Security;Grafana;Azure
+Candidate_088,Cloud Engineer,Offer,Company Site,2025-08-18,2025-09-11,Prometheus;Terraform;Grafana;Azure;Python;Networking;Kubernetes
+Candidate_089,DevOps Engineer,Rejected,LinkedIn,2025-10-29,2025-11-05,Python;CI/CD;AWS;Grafana;Security
+Candidate_090,SRE,Screening,Company Site,2025-09-18,2025-10-14,Azure;Grafana;Prometheus;Python;CI/CD;Networking;Kubernetes
+Candidate_091,SRE,Screening,Referral,2025-10-23,2025-11-11,Terraform;Bash;CI/CD;Ansible;Kubernetes
+Candidate_092,DevOps Engineer,Interview,Recruiter,2025-08-23,2025-09-07,Jenkins;PowerShell;Kubernetes;Docker;Security;Prometheus;CI/CD
+Candidate_093,DevOps Engineer,Interview,LinkedIn,2025-09-29,2025-10-10,CI/CD;Azure;Jenkins;Grafana;Ansible
+Candidate_094,Cloud Engineer,Interview,Recruiter,2025-10-01,2025-10-04,AWS;Ansible;GCP;Prometheus;Security;Docker
+Candidate_095,SRE,Screening,Job Board,2025-09-09,2025-09-30,Grafana;CI/CD;PowerShell;Networking;Bash;GCP
+Candidate_096,DevOps Engineer,Screening,Recruiter,2025-10-12,2025-10-30,GitHub Actions;Docker;Bash;Python;Prometheus
+Candidate_097,DevOps Engineer,Rejected,Job Board,2025-09-08,2025-09-27,Terraform;Python;Security;AWS;Networking
+Candidate_098,DevOps Engineer,Applied,Referral,2025-08-22,2025-09-09,Grafana;Python;Networking;Terraform;Prometheus;Ansible;Bash
+Candidate_099,Platform Engineer,Screening,Referral,2025-09-06,2025-09-10,GitHub Actions;Linux;Azure;Docker;Ansible;Terraform;GCP
+Candidate_100,DevOps Engineer,Rejected,LinkedIn,2025-09-04,2025-09-07,Security;AWS;Python;Jenkins;Bash;Prometheus;Docker
+Candidate_101,Platform Engineer,Applied,Job Board,2025-10-12,2025-10-19,Jenkins;AWS;GCP;Security
+Candidate_102,Platform Engineer,Rejected,Recruiter,2025-10-07,2025-10-30,GCP;Kubernetes;Bash;Terraform;Docker;Networking
+Candidate_103,Platform Engineer,Interview,Company Site,2025-09-07,2025-09-28,Terraform;GitHub Actions;Prometheus;PowerShell;AWS;Security
+Candidate_104,Cloud Engineer,Rejected,Recruiter,2025-10-25,2025-11-03,Bash;Ansible;PowerShell;Jenkins;Python
+Candidate_105,DevOps Engineer,Screening,LinkedIn,2025-11-06,2025-11-11,AWS;Kubernetes;CI/CD;Jenkins;Prometheus
+Candidate_106,DevOps Engineer,Rejected,Company Site,2025-10-26,2025-11-11,Python;Linux;Terraform;Networking;Security
+Candidate_107,Cloud Engineer,Rejected,Referral,2025-08-18,2025-09-11,Linux;CI/CD;Azure;Prometheus;Networking;Docker;AWS
+Candidate_108,Platform Engineer,Applied,Referral,2025-09-25,2025-09-26,PowerShell;Ansible;Jenkins;GitHub Actions;Python;Terraform
+Candidate_109,SRE,Screening,Referral,2025-08-16,2025-09-10,CI/CD;Ansible;AWS;Terraform;Python;Kubernetes;GCP
+Candidate_110,DevOps Engineer,Interview,Referral,2025-08-21,2025-09-12,CI/CD;PowerShell;Ansible;Networking;Grafana;Python;Security
+Candidate_111,Platform Engineer,Interview,Job Board,2025-08-22,2025-09-15,Bash;Python;Kubernetes;Grafana;AWS;Networking;Azure
+Candidate_112,Cloud Engineer,Rejected,Recruiter,2025-09-24,2025-10-17,Jenkins;Bash;Azure;Terraform;Kubernetes;Docker;PowerShell
+Candidate_113,Cloud Engineer,Screening,Referral,2025-10-05,2025-10-16,Prometheus;Kubernetes;Docker;GCP;PowerShell;Terraform
+Candidate_114,DevOps Engineer,Screening,Recruiter,2025-09-23,2025-10-08,Linux;Jenkins;Security;Docker;Terraform;Networking
+Candidate_115,Platform Engineer,Applied,Company Site,2025-09-24,2025-10-15,Kubernetes;Python;Security;Networking;Bash;GCP;Grafana
+Candidate_116,DevOps Engineer,Interview,Referral,2025-11-02,2025-11-06,Grafana;Bash;Jenkins;GCP;GitHub Actions;Security
+Candidate_117,DevOps Engineer,Interview,LinkedIn,2025-09-20,2025-10-06,Python;Ansible;Bash;GCP
+Candidate_118,Platform Engineer,Applied,Recruiter,2025-10-08,2025-10-21,PowerShell;GitHub Actions;Ansible;Python;CI/CD;Bash;Docker
+Candidate_119,Cloud Engineer,Rejected,Referral,2025-09-29,2025-10-18,GCP;Prometheus;Docker;CI/CD;Python;Grafana
+Candidate_120,SRE,Rejected,Referral,2025-08-30,2025-09-27,GCP;Jenkins;Azure;Security;Bash
+Candidate_121,DevOps Engineer,Interview,Company Site,2025-09-12,2025-09-21,Terraform;Jenkins;CI/CD;Networking
+Candidate_122,SRE,Offer,LinkedIn,2025-10-04,2025-10-09,GCP;Prometheus;Azure;Python
+Candidate_123,SRE,Applied,Recruiter,2025-09-06,2025-10-02,PowerShell;Jenkins;GCP;Python;Security
+Candidate_124,Cloud Engineer,Hired,Company Site,2025-10-07,2025-10-22,PowerShell;GCP;Grafana;Ansible;Terraform
+Candidate_125,DevOps Engineer,Applied,Referral,2025-08-13,2025-08-14,Docker;Grafana;PowerShell;Networking;Security
+Candidate_126,SRE,Interview,Job Board,2025-11-04,2025-11-11,Grafana;Networking;Prometheus;AWS;Ansible
+Candidate_127,DevOps Engineer,Screening,Recruiter,2025-09-08,2025-10-06,Terraform;GCP;Docker;Kubernetes;AWS
+Candidate_128,Cloud Engineer,Interview,Job Board,2025-10-01,2025-10-24,Bash;Networking;Security;GitHub Actions;Linux;Ansible;GCP
+Candidate_129,SRE,Interview,Referral,2025-08-15,2025-08-30,Jenkins;Security;Prometheus;Terraform;Bash;GCP;PowerShell
+Candidate_130,SRE,Rejected,Job Board,2025-08-26,2025-09-16,Kubernetes;Security;Docker;Terraform;CI/CD;PowerShell;Grafana
+Candidate_131,DevOps Engineer,Rejected,Job Board,2025-09-25,2025-10-08,Prometheus;GCP;GitHub Actions;Linux;Security;Bash;AWS
+Candidate_132,SRE,Hired,LinkedIn,2025-10-04,2025-10-10,Ansible;Azure;CI/CD;Docker;Python;Jenkins;Bash
+Candidate_133,Cloud Engineer,Rejected,Company Site,2025-10-11,2025-10-20,Jenkins;Bash;Linux;Security;Networking
+Candidate_134,SRE,Rejected,LinkedIn,2025-08-15,2025-09-02,PowerShell;Networking;Grafana;Ansible;GitHub Actions
+Candidate_135,Platform Engineer,Rejected,LinkedIn,2025-08-25,2025-09-09,Security;Docker;CI/CD;Terraform;GitHub Actions;Ansible;Prometheus
+Candidate_136,Platform Engineer,Offer,Recruiter,2025-09-23,2025-10-07,Prometheus;Jenkins;Networking;Security;GitHub Actions
+Candidate_137,DevOps Engineer,Interview,Company Site,2025-10-19,2025-11-06,Docker;CI/CD;Networking;Azure;Ansible
+Candidate_138,DevOps Engineer,Applied,Referral,2025-09-24,2025-10-16,Docker;AWS;Bash;Grafana;CI/CD;Ansible;Python
+Candidate_139,Cloud Engineer,Rejected,Company Site,2025-09-21,2025-10-12,CI/CD;Networking;GCP;Security
+Candidate_140,Cloud Engineer,Applied,Job Board,2025-09-17,2025-09-29,Networking;Jenkins;Linux;Bash;Prometheus
+Candidate_141,Cloud Engineer,Offer,Recruiter,2025-08-21,2025-09-20,GitHub Actions;Jenkins;Azure;Docker;Ansible;PowerShell;Kubernetes
+Candidate_142,SRE,Applied,Referral,2025-09-15,2025-09-28,Linux;Docker;Kubernetes;Bash
+Candidate_143,Cloud Engineer,Screening,Referral,2025-08-27,2025-09-19,AWS;Linux;Azure;Python;Bash;Prometheus
+Candidate_144,Platform Engineer,Screening,LinkedIn,2025-11-01,2025-11-11,CI/CD;PowerShell;GCP;Python;Jenkins
+Candidate_145,SRE,Hired,LinkedIn,2025-08-21,2025-08-25,AWS;Python;Docker;Kubernetes
+Candidate_146,Cloud Engineer,Applied,Recruiter,2025-10-09,2025-10-25,Jenkins;CI/CD;Ansible;Security;GCP;GitHub Actions;Bash
+Candidate_147,Platform Engineer,Applied,Recruiter,2025-09-04,2025-09-29,Python;Terraform;Security;AWS;Docker
+Candidate_148,SRE,Applied,Referral,2025-10-22,2025-11-11,Grafana;Bash;Prometheus;Python;CI/CD;Linux
+Candidate_149,DevOps Engineer,Applied,Recruiter,2025-10-25,2025-11-06,Ansible;Prometheus;Python;Grafana;Docker;AWS
+Candidate_150,Platform Engineer,Applied,Recruiter,2025-10-31,2025-11-11,Azure;Kubernetes;AWS;Grafana;Bash;GitHub Actions
