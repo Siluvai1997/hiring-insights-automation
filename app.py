@@ -85,10 +85,10 @@ with tab1:
     st.plotly_chart(sankey_fig, use_container_width=True)
     st.write("### Export")
     if st.button("📄 Download PDF Summary", type="primary"):
-        pdf_path = "pipeline_summary.pdf"
-        generate_pdf_report(pdf_path, kpis, sc, detect_bottlenecks(df, days_threshold))
+        pdf_path = "hiring_summary.pdf"
+        generate_pdf_report(df, kpis)
         with open(pdf_path, "rb") as f:
-            st.download_button("Download PDF", f, file_name="pipeline_summary.pdf", mime="application/pdf")
+            st.download_button("Download PDF", f, file_name="hiring_summary.pdf", mime="application/pdf")
 
     st.write("### Candidate Table")
     role_filter = st.multiselect("Filter by Role", sorted(df["Role"].unique()), default=list(df["Role"].unique()))
