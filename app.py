@@ -97,10 +97,9 @@ with tab1:
               file_name="Hiring_Insights_Summary.pdf",
               mime="application/pdf"
             )
-
-          st.success("PDF generated successfully! Click above to download.")
+           st.success("PDF generated successfully! Click above to download.")
        except Exception as e:
-          st.error(f"An error occurred while generating the PDF: {e}")
+           st.error(f"An error occurred while generating the PDF: {e}")
     st.write("### Candidate Table")
     role_filter = st.multiselect("Filter by Role", sorted(df["Role"].unique()), default=list(df["Role"].unique()))
     stage_filter = st.multiselect("Filter by Stage", sorted(df["Stage"].unique()), default=list(df["Stage"].unique()))
