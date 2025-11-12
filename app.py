@@ -83,13 +83,24 @@ with tab1:
      )
 
     st.plotly_chart(sankey_fig, use_container_width=True)
-    st.write("### Export")
-    if st.button("📄 Download PDF Summary", type="primary"):
-        pdf_path = "hiring_summary.pdf"
-        generate_pdf_report(df, kpis)
-        with open(pdf_path, "rb") as f:
-            st.download_button("Download PDF", f, file_name="hiring_summary.pdf", mime="application/pdf")
+    st.markdown("### Export")
+    st.caption("Generate and download a PDF summary of current hiring analytics.")
+    if st.button("Download PDF Summary"):
+       try:
+           # Generate the PDF in-memory
+           pdf_buffer = generate_pdf_report(df, kpis)
 
+           # Offer it as a downloadable file in Streamlit
+           st.download_button(
+              label="Click here to download the summary PDF",
+              data=pdf_buffer,
+              file_name="Hiring_Insights_Summary.pdf",
+              mime="application/pdf"
+            )
+
+          st.success("PDF generated successfully! Click above to download.")
+       except Exception as e:
+          st.error(f"An error occurred while generating the PDF: {e}")
     st.write("### Candidate Table")
     role_filter = st.multiselect("Filter by Role", sorted(df["Role"].unique()), default=list(df["Role"].unique()))
     stage_filter = st.multiselect("Filter by Stage", sorted(df["Stage"].unique()), default=list(df["Stage"].unique()))
